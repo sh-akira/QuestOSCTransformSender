@@ -4,6 +4,12 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Oculus/
+Resources/
+uOSC/
+*.meta
+Logs/
+Packages/
 
 # Visual Studio cache directory
 .vs/
@@ -32,5 +38,4 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.unitypackage
